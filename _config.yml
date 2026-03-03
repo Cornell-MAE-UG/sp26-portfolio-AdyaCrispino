@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Adya Crispino
 description              : Adya Crispino - Projects and CV 
-baseurl                  : baseurl: "/sp26-portfolio-AdyaCrispino/"
+baseurl                  : "/sp26-portfolio-AdyaCrispino/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
